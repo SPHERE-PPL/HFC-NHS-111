@@ -1,24 +1,29 @@
-# SPHERE-PPL Forecasting Contest Template
+# SPHERE-PPL Health Forecasting Contest - NHS 111 Online Usage
 
-This is the official template repository for SPHERE-PPL Forecasting Contest. 
+## Introduction[^readme-1]
 
-Each contest will have its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) that will showcase how to load the data, perform analyses and then export results into the correct format. There will also be a folder for any additional scripts that are required. Any coding languages are allowed but all analyses must be reproducible by the panel. 
+[^readme-1]: Adapted from NHS 111 Website (<https://www.england.nhs.uk/statistics/statistical-work-areas/iucadc-new-from-april-2021/111-online-statistics/>)
+NHS 111 online (https://111.nhs.uk/) is a fast and convenient alternative to the 111 phone service for people who want to access 111 digitally.
 
-More details about the contests and the SPHERE-PPL Community can be found at: <https://SPHERE-PPL.github.io>.
-
-The remainder of this README will show the different sections that will usually be included in the contest set-up.
-
-## Introduction
-This is for setting the scene and providing details relating to the Annual Meeting and the drivers behind the contest.
+Data from 111 online were first published as Management Information in July 2023. This means that the publication is not badged as Official Statistics but every effort is still made to adhere to the Code of Practice for Statistics.
 
 ## Forecasting Outputs
-Need to outline the specific ask of the contest and what it means for the policies/community etc.
+
+This contest has its own repository with pre-prepared data (found in the data folder) and a template report (report.qmd) which showcases how to load the data, perform analyses and then export results into the correct format. There is also be a folder for any additional scripts that are required.
+
+For this contest, we are looking to forecast monthly 111 online complete sessions at a range of geographical scales (i.e. England, Clinical Commisioning Regions, & ICBs) for the first 6 months of 2025 (January - June).
 
 ## Joining the contest & Getting Started
 Here we will need details of how to fork the repo / download the data and then a brief intro to the .qmd reporting.
 
 ## Rules
-There will be generic rules on the website but here we will give the specific timelines for submissions and how the panel will be assessing the accuracy of the predictions.
+
+## Rules
+-   Any coding languages are allowed but all analyses must be reproducible by the panel.
+-   All entries must be loaded into a public Github repo.
+-   All entries must follow the submission formats outlined below.
+-   All entries must include a max 1000 word report to accompany the forecast analyses. This can be as a separate PDF/hmtl or incorporated into a quarto/jupyter notebook.
+
 
 ## How to Submit
 
