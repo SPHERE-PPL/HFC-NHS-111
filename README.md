@@ -9,14 +9,13 @@ Data from 111 online were first published as Management Information in July 2023
 
 ## Forecasting Outputs
 
-This contest has its own repository with pre-prepared data (found in the data folder) and a template report (report.qmd) which showcases how to load the data, perform analyses and then export results into the correct format. There is also be a folder for any additional scripts that are required.
-
 For this contest, we are looking to forecast monthly 111 online complete sessions at a range of geographical scales (i.e. England, Clinical Commisioning Regions, & ICBs) for the first 6 months of 2025 (January - June).
+
+Forecasts and reports should be saved into the submission folder, matching the template found within. 
 
 ## Joining the contest & Getting Started
 Here we will need details of how to fork the repo / download the data and then a brief intro to the .qmd reporting.
 
-## Rules
 
 ## Rules
 -   Any coding languages are allowed but all analyses must be reproducible by the panel.
@@ -28,7 +27,7 @@ Here we will need details of how to fork the repo / download the data and then a
 ## How to Submit
 
 ## Connect with the Community
-Each contest will be stored in its own repo within the SPHERE-PPL organisation and we will also have a Zulip space for each. Links should be placed here and how we plan to communicate on a regular basis. 
+You can join our Zulip here: (URL) and check out our events page to see the next online catch-up.
 
 ## License
 
