@@ -8,7 +8,7 @@ Link to publication: https://www.england.nhs.uk/statistics/statistical-work-area
 # Introduction	
 Metrics are presented for all months of data for each geographical granularity.	
 
-# ßFurther Information	
+# Further Information	
 Other documents available at the publication link:	
 Data item specification and glossary	
 Data quality statement 	
