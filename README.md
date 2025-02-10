@@ -1,5 +1,7 @@
 # SPHERE-PPL Health Forecasting Contest - NHS 111 Online Usage
 
+> [**This repo/contest is currently under construction so details may change before the start date.**]{.underline}
+
 ## Introduction[^readme-1]
 
 [^readme-1]: Adapted from NHS 111 Website (<https://www.england.nhs.uk/statistics/statistical-work-areas/iucadc-new-from-april-2021/111-online-statistics/>)
