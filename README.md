@@ -1,6 +1,6 @@
 # SPHERE-PPL Health Forecasting Contest - NHS 111 Online Usage
 
-> [**This repo/contest is currently under construction so details may change before the start date.**]{.underline}
+> **This repo/contest is currently under construction so details may change before the start date.**
 
 ## Introduction[^readme-1]
 
