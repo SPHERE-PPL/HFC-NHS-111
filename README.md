@@ -6,7 +6,7 @@
 
 [^readme-1]: Adapted from NHS 111 Website (<https://www.england.nhs.uk/statistics/statistical-work-areas/iucadc-new-from-april-2021/111-online-statistics/>)
 
-NHS 111 online (https://111.nhs.uk/) is a fast and convenient alternative to the 111 phone service for people who want to access 111 digitally.
+NHS 111 online (<https://111.nhs.uk/>) is a fast and convenient alternative to the 111 phone service for people who want to access 111 digitally.
 
 Data from 111 online were first published as Management Information in July 2023. This means that the publication is not badged as Official Statistics but every effort is still made to adhere to the Code of Practice for Statistics.
 
@@ -14,23 +14,31 @@ Data from 111 online were first published as Management Information in July 2023
 
 For this contest, we are looking to forecast monthly 111 online complete sessions at a range of geographical scales (i.e. England, Clinical Commisioning Regions, & ICBs) for the first 6 months of 2025 (January - June).
 
-Forecasts and reports should be saved into the submission folder, matching the template found within. 
+Forecasts and reports should be saved into the submission folder, matching the template found within.
 
 ## Joining the contest & Getting Started
-Here we will need details of how to fork the repo / download the data and then a brief intro to the .qmd reporting.
+In order to join the contest, you will need to fork or download the repo. 
 
+To fork the repo, simply press the "fork" button (circled in gold in the image below), which can be found at the top of this github page. Follow the instructions which will add a fork of the repo to your github account.
+
+To download the data without a github account, click the code dropdown (circled in blue in the image below) and download a zip of the data directly to your computer.
+
+![Fork or Download](https://github.com/SPHERE-PPL/forecasting-contest-template/blob/main/contest_media/fork_button.png)
 
 ## Rules
+
 -   Any coding languages are allowed but all analyses must be reproducible by the panel.
 -   All entries must be loaded into a public Github repo.
 -   All entries must follow the submission formats outlined below.
 -   All entries must include a max 1000 word report to accompany the forecast analyses. This can be as a separate PDF/hmtl or incorporated into a quarto/jupyter notebook.
 
-
 ## How to Submit
+If you forked the repo, congratulations, you have already enetered the contest. We will run the [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR) the day following the close of the contest and your repo will be collated with the entries.
+
+If you did not fork the repo, please send an email to contest@sphere-ppl.org with a link to your public github repo where your forecast and report are stored. These will then be collated with the other entries.
 
 ## Connect with the Community
-You can join our Zulip here: (URL) and check out our events page to see the next online catch-up.
+You can join our Zulip [here](https://sphereppl.zulipchat.com/join/olwtpi7g3wbyh5mxv4uwipaw/) and check out our events page to see the next online catch-up.
 
 ## License
 
